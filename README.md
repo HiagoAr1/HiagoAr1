@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! me chamo Hiago 🖐️
+### Sou um programador Brasileiro iniciante na linguagem
 
-<!--
-**HiagoAr1/HiagoAr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style='display: inline
+_block'><br/>
+ <img align='center' alt='html15' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'> 
 
-Here are some ideas to get you started:
+ ### Pretendendo aprender. 
+<div style='display: inline
+_block'><br/>
+ <img align='center' alt='html15' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white' />
+ <img align='center' alt='html15' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white' />
+<img align='center' alt='html15' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
+<img align='center' alt='html15' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
+ <div>
+ 
+   ### Apaixonado por programação desde pequeno como inspiração meu pai, sonho em fazer muitos projetos que possam ajudar as pessoas em seu dia a dia ou como diversão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
